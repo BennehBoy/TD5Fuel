@@ -1,0 +1,7 @@
+
+.vscode/
+.thea/
+inols-err.log
+inols.log
+inols-clangd-err.log
+inols-clangd.log

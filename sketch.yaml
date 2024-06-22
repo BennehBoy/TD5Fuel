@@ -1,0 +1,1 @@
+default_fqbn: STMicroelectronics:stm32:GenF1:pnum=BLUEPILL_F103CB,usb=CDCgen,xserial=generic,xserial=generic
